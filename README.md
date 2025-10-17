@@ -6,7 +6,7 @@
 ## Features
 **ADMIN DASHBOARD**
 * User Authentication:
-Secure login, registration, and role-based access for customer/players and admins.
+Secure login, registration, and role-based access for clients and admin.
 
 * Dashboard:
 Provides an overview of key metrics, status, and summaries ( Transaction, Facility, Reserved, Sales, Facility Category).
@@ -26,7 +26,7 @@ Records detailed information on every financial transaction that has occurred wi
 * History Log:
 Maintains a record of system activities and changes, helping with auditing and tracking user actions.
 
-**CLIENT DASHBOARD**
+**CUSTOMER DASHBOARD**
 * Available Court:
 Allows users to book sports facilities quickly and easily, without having to wait for confirmation or deal with complicated processes. 
 
