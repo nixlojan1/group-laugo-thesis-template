@@ -5,14 +5,20 @@
 
 ## Features
 
-**1. Dashboard:**
-Provides an overview of key metrics, status, and summaries (Transaction, Facility, Reserved, Sales, Facility Category).
+**1. User Authentication:**
+Secure login, registration, and role-based access for customer/players and admins.
 
-**2. Facility List:**
+**2. Dashboard:**
+Provides an overview of key metrics, status, and summaries ( Transaction, Facility, Reserved, Sales, Facility Category).
+
+**3. Facility List:**
 Allows viewing and managing the inventory of available sports facilities (courts, equipment).
 
-**3. Booking:**
-Enables users to create reservations or scheduled bookings for the facilities. **4. Walk In: ** Facilitates the quick creation of immediate, unscheduled bookings for customers who arrive without a reservation.
+**4. Real-time Availability:**
+The system should display real-time availability of court to prevent double bookings and ensure accurate inventory information.
+
+**4. Walk In: **
+Facilitates the quick creation of immediate, unscheduled bookings for customers who arrive without a reservation.
 
 **5. Sales:**
 Manages and tracks all revenue generated from bookings, rentals, or other associated purchases.
@@ -22,6 +28,9 @@ Records detailed information on every financial transaction that has occurred wi
 
 **7. History Log:**
 Maintains a record of system activities and changes, helping with auditing and tracking user actions.
+
+
+
 
 
 ## Installation Steps
