@@ -27,6 +27,19 @@ Records detailed information on every financial transaction that has occurred wi
 Maintains a record of system activities and changes, helping with auditing and tracking user actions.
 
 
+**1. Available Court:**
+Allows users to book sports facilities quickly and easily, without having to wait for confirmation or deal with complicated processes. 
+
+**2. Facility Search:**
+Enables users to search for sports facilities based on their specific needs and availability. This saves users time and effort in finding the right facility for their needs. 
+
+**3. Booking History:**
+Allows users to view their past and upcoming bookings, including details such as date, time, facility, and payment information. 
+
+**4. Payment Options:**
+Provides users with a convenient and secure way to pay for their reservation online. The system uses secure payment gateways to protect users' sensitive payment information. 
+
+
 
 
 
