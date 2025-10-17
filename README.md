@@ -4,15 +4,25 @@
 
 
 ## Features
-1. Replace placeholder content in each `.md` file.
-2. Keep sections modular (one file per page) in their respective chapter folders.
-3. Use `index.md` as the entry point. Links already point to each section.
-4. (Optional) Build a site with MkDocs:
-   ```bash
-   pip install mkdocs mkdocs-material
-   mkdocs serve        # local preview at http://127.0.0.1:8000
-   mkdocs build        # outputs site/ directory
-   ```
+
+**1. Dashboard:**
+Provides an overview of key metrics, status, and summaries (Transaction, Facility, Reserved, Sales, Facility Category).
+
+**2. Facility List:**
+Allows viewing and managing the inventory of available sports facilities (courts, equipment).
+
+**3. Booking:**
+Enables users to create reservations or scheduled bookings for the facilities. **4. Walk In: ** Facilitates the quick creation of immediate, unscheduled bookings for customers who arrive without a reservation.
+
+**5. Sales:**
+Manages and tracks all revenue generated from bookings, rentals, or other associated purchases.
+
+**6. Transaction Logs:**
+Records detailed information on every financial transaction that has occurred within the system.
+
+**7. History Log:**
+Maintains a record of system activities and changes, helping with auditing and tracking user actions.
+
 
 ## Installation Steps
 
