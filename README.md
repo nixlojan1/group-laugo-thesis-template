@@ -1,6 +1,6 @@
-# SportsComplex Reservation Management
+# Sports Complex Reservation Management
 
- SportsComplex Reservation Management is a system designed to streamline and automate the reservation process of sports facilities. It provides a convenient platform for users to check facility availability, schedule bookings, and manage reservations efficiently. By minimizing manual processes and reducing scheduling conflicts, the system aims to improve coordination, enhance user experience, and support better facility management.
+ Sports Complex Reservation Management is a system designed to streamline and automate the reservation process of sports facilities. It provides a convenient platform for users to check facility availability, schedule bookings, and manage reservations efficiently. By minimizing manual processes and reducing scheduling conflicts, the system aims to improve coordination, enhance user experience, and support better facility management.
 
 
 ## Features
