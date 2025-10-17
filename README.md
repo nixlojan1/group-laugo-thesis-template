@@ -1,4 +1,4 @@
-# Thesis Markdown Template
+# PROJECT TITLE
 
 SportsComplex Reservation Management
 
