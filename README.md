@@ -2,7 +2,7 @@
 
 SportsComplex Reservation Management
 
-## How to use
+## Features
 1. Replace placeholder content in each `.md` file.
 2. Keep sections modular (one file per page) in their respective chapter folders.
 3. Use `index.md` as the entry point. Links already point to each section.
@@ -13,5 +13,7 @@ SportsComplex Reservation Management
    mkdocs build        # outputs site/ directory
    ```
 
-## Folder layout
+## Installation Steps
 See the tree below or open `mkdocs.yml` to adjust the sidebar navigation.
+
+## Screenshot or Image
