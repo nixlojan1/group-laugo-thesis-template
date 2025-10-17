@@ -1,6 +1,6 @@
 # Thesis Markdown Template
 
-This repository is a starter structure for writing a thesis entirely in Markdown, hosted on GitHub, and published as a small documentation site via **MkDocs**.
+SportsComplex Reservation Management
 
 ## How to use
 1. Replace placeholder content in each `.md` file.
