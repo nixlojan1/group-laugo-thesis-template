@@ -4,46 +4,52 @@
 
 
 ## Features
-
-**1. User Authentication:**
+**ADMIN DASHBOARD**
+* User Authentication:
 Secure login, registration, and role-based access for customer/players and admins.
 
-**2. Dashboard:**
+* Dashboard:
 Provides an overview of key metrics, status, and summaries ( Transaction, Facility, Reserved, Sales, Facility Category).
 
-**3. Facility List:**
+* Facility List:
 Allows viewing and managing the inventory of available sports facilities (courts, equipment).
 
-**4. Real-time Availability:**
+* Real-time Availability:
 The system should display real-time availability of court to prevent double bookings and ensure accurate inventory information.
 
-**5. Sales:**
+* Sales:
 Manages and tracks all revenue generated from bookings, rentals, or other associated purchases.
 
-**6. Transaction Logs:**
+* Transaction Logs:
 Records detailed information on every financial transaction that has occurred within the system.
 
-**7. History Log:**
+* History Log:
 Maintains a record of system activities and changes, helping with auditing and tracking user actions.
 
-
-**1. Available Court:**
+**CLIENT DASHBOARD**
+* Available Court:
 Allows users to book sports facilities quickly and easily, without having to wait for confirmation or deal with complicated processes. 
 
-**2. Facility Search:**
+* Facility Search:
 Enables users to search for sports facilities based on their specific needs and availability. This saves users time and effort in finding the right facility for their needs. 
 
-**3. Booking History:**
+* Booking History:
 Allows users to view their past and upcoming bookings, including details such as date, time, facility, and payment information. 
 
-**4. Payment Options:**
+* Payment Options:
 Provides users with a convenient and secure way to pay for their reservation online. The system uses secure payment gateways to protect users' sensitive payment information. 
 
+* Multiple Court Rates:
+Allows for flexible pricing based on different seasons or court types.
+
+* Notifications:
+Allows users to receive timely notifications and reminders about their bookings.
 
 
 
 
-## Installation Steps
+
+## Installation Guide
 
 ### To set up and run the project, follow these steps:
 
@@ -81,4 +87,6 @@ https://nodejs.org/
 
   Visual Studio Code or Typora.
 
-## Screenshot or Image
+## Screenshot
+
+To be filled later on
