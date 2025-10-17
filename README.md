@@ -17,9 +17,6 @@ Allows viewing and managing the inventory of available sports facilities (courts
 **4. Real-time Availability:**
 The system should display real-time availability of court to prevent double bookings and ensure accurate inventory information.
 
-**4. Walk In: **
-Facilitates the quick creation of immediate, unscheduled bookings for customers who arrive without a reservation.
-
 **5. Sales:**
 Manages and tracks all revenue generated from bookings, rentals, or other associated purchases.
 
