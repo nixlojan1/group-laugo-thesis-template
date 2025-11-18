@@ -6,10 +6,10 @@
 ## Features
 **ADMIN DASHBOARD**
 * User Authentication:
-Secure login, registration, and role-based access for clients and admin.
+Secure login and registration for admin.
 
 * Dashboard:
-Provides an overview of key metrics, status, and summaries ( Transaction, Facility, Reserved, Sales, Facility Category).
+Provides an overview of key metrics, status, and summaries (Transaction, Facility, Reserved, Sales, Facility Category, Notifications).
 
 * Facility List:
 Allows viewing and managing the inventory of available sports facilities (courts, equipment).
@@ -18,7 +18,7 @@ Allows viewing and managing the inventory of available sports facilities (courts
 The system should display real-time availability of court to prevent double bookings and ensure accurate inventory information.
 
 * Sales:
-Manages and tracks all revenue generated from bookings, rentals, or other associated purchases.
+Manages and tracks all revenue generated from bookings and rentals.
 
 * Transaction Logs:
 Records detailed information on every financial transaction that has occurred within the system.
@@ -26,12 +26,12 @@ Records detailed information on every financial transaction that has occurred wi
 * History Log:
 Maintains a record of system activities and changes, helping with auditing and tracking user actions.
 
+* Notifications:
+Allows admin to receive timely notifications and reminders about customer bookings.
+
 **CUSTOMER DASHBOARD**
 * Available Court:
 Allows users to book sports facilities quickly and easily, without having to wait for confirmation or deal with complicated processes. 
-
-* Facility Search:
-Enables users to search for sports facilities based on their specific needs and availability. This saves users time and effort in finding the right facility for their needs. 
 
 * Booking History:
 Allows users to view their past and upcoming bookings, including details such as date, time, facility, and payment information. 
