@@ -1,8 +1,3 @@
-# Purpose and Description
+This study focuses on the development of SportEase, a web-based Sports Facility Management System designed to automate the reservation, scheduling, monitoring, and management of sports facilities and equipment. The system provides users with an accessible platform for facility reservations and payments, while enabling administrators to efficiently manage schedules, transactions, and resources through an integrated dashboard.
 
-> _Replace this placeholder with your content._
-
-
-
----
-[⬅️ Previous](../02-introduction/project-context.md) | [Next ➡️](../02-introduction/objectives.md)
+The purpose of this study is to design, develop, and evaluate an ISO/IEC 25010-aligned sports facility management system that addresses the limitations of traditional manual processes. Specifically, the system aims to streamline reservation procedures, reduce human error, improve transparency, and enhance operational efficiency and user satisfaction in sports complex facility management.
